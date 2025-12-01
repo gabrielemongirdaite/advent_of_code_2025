@@ -24,6 +24,7 @@ for i in g1:
 print('1st part answer: ' + str(zeros))
 print("--- %s seconds for 1st part---" % (time.time() - start_time))
 
+
 start_time = time.time()
 passed_zeros = 0
 zeros = 0
