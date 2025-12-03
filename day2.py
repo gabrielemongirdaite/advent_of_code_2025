@@ -7,7 +7,7 @@ def read_file(file_name):
     id_ranges = []
     for i in lines:
         i1, i2 = i.split("-")
-        id_ranges.append(range(int(i1), int(i2)+1))
+        id_ranges.append(range(int(i1), int(i2) + 1))
     return id_ranges
 
 
