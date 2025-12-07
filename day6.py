@@ -66,7 +66,3 @@ for i in n:
 answer2 += a_tmp
 print('2nd part answer: ' + str(answer2))
 print("--- %s seconds for 2nd part---" % (time.time() - start_time))
-
-
-# 5658411318886 -- too low
-# 12542543673997 -- too low
